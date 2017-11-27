@@ -3375,6 +3375,7 @@ body.grade-c {
  * scroll view functionality.
  */
 .scroll {
+  height:100%;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
